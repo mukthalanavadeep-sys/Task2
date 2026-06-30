@@ -11,12 +11,12 @@ Tableau Public
 Sample Superstore
 
 ## Dashboards
-Sales by Product Category
-Profit by Product Sub-Category
-Annual Sales Trend
-Sales by Segment
-Discount vs Profit
-Sales by Region
+Sales by Product Category,
+Profit by Product Sub-Category,
+Annual Sales Trend,
+Sales by Segment,
+Discount vs Profit,
+Sales by Region,
 Executive Summary
 
 ## Key Insights
